@@ -86,7 +86,7 @@ if (mysqli_num_rows($query) < 1) {
                                     </div>
                                     <div class="col-12 d-flex justify-content-end">
                                         <button type="submit" class="btn btn-primary me-1 mb-1" name="submit">Submit</button>
-                                        <button type="reset" class="btn btn-danger me-1 mb-1" onClick="confirm('Apakah anda yakin akan reset form?')">Reset</button>
+                                        <button type="reset" class="btn btn-danger me-1 mb-1">Reset</button>
                                     </div>
                                 </div>
                             </div>
